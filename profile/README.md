@@ -1,11 +1,16 @@
 ## CDJ Builders
-
 **Group Project:** BCS21  
 **Created by:** Carmona, De Vega, and Jimenez of De La Salle University - Dasmarinas.
-
-- Project in Application Development (ASB)
-- Project in Programming Languages (ASB)
-- Project in Information Management (ASB)
-- Project in Software Engineering (Schedula)
-- Project in Algorithms and Complexity (Schedula)
-- Project in Machine Learning (SchedulaML)
+---
+## Academic Schedule Builder
+- Project in Application Development
+- Project in Programming Languages
+- Project in Information Management
+## Schedula
+- Project in Software Engineering
+- Project in Algorithms and Complexity
+- Project in Information Assurance and Security
+## Schedula MindLab
+- Project in Machine Learning
+- Project in Natural Language Processing
+---
