@@ -1,6 +1,7 @@
 ## CDJ Builders
-**Group Project:** BCS21  
-**Created by:** Carmona, De Vega, and Jimenez of De La Salle University - Dasmarinas.
+- **Group Project:** BCS21  
+- **Created by:** Carmona, De Vega, and Jimenez of De La Salle University - Dasmarinas.
+
 ---
 ## Academic Schedule Builder
 - Project in Application Development
